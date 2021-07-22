@@ -14,4 +14,5 @@ Created basic form using NetBeans, JSON Power DB, learnt through login2explore.
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
 
-####Release History: v1.0
+####Release History:
+v1.0
